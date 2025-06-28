@@ -1,1 +1,10 @@
 # The Perceptron
+
+In Machine Learning, the Perceptron is one of the simplest, most fundamental neural networks. It was originally introduced in 1957 by Frank Rosenblatt and serves as a binary classifier, learning a linear decision boundary and characterizing data based on that. 
+
+# Data
+
+The dataset used here tracks all basic box score and biographical stats of every NBA player from 1996 to 2022 such as height, weight, points per game, net rating, season, and many more. Link: https://www.kaggle.com/datasets/justinas/nba-players-data
+
+# Libraries
+The following python libraries are used.
