@@ -11,8 +11,8 @@ The dataset used here tracks all basic box score and biographical stats of every
 # Libraries
 The following python libraries are used.
 
-matplotlib (https://matplotlib.org/)
-numpy (https://numpy.org/)
-pandas (https://pandas.pydata.org/)
-seaborn (https://seaborn.pydata.org/)
-scikit learn (https://scikit-learn.org/)
+matplotlib (https://matplotlib.org/)  
+numpy (https://numpy.org/)  
+pandas (https://pandas.pydata.org/)  
+seaborn (https://seaborn.pydata.org/)  
+scikit learn (https://scikit-learn.org/)  
