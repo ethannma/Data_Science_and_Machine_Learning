@@ -20,7 +20,7 @@ Unsupervised Learning
 • Image Compression with the Singular Value Decomposition (SVD)  
   
 
-In the supervised portion, I focused on NBA datasets, exploring various different possible relationships between stats. I did this out of curiosity for the overall debate surrounding the advanced analytics movement in the NBA. I also applied machine learning algorithms to find concrete findings that back up recent trends in the NBA that have been mostly word of mouth and from the eye test in ways that I haven't seen quantified, mainly surrounding the positionless basketball movement. In the unsupervised portion
+In the supervised portion, I focused on NBA datasets, exploring various different possible relationships between stats. I did this out of curiosity for the overall debate surrounding the advanced analytics movement in the NBA. I also applied machine learning algorithms to find concrete findings that back up recent trends in the NBA that have been mostly word of mouth and from the eye test in ways that I haven't seen quantified, mainly surrounding the positionless basketball movement. In the unsupervised portion, I took an unlabeled set of Spotify songs and used K means clustering and PCA in conjunction with one another to divide into clusters of songs sharing common characteristics.
 
 ## Datasets:
 Supervised learning:  
