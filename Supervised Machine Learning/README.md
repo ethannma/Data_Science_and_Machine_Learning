@@ -5,7 +5,7 @@ Supervised learning is a type of machine learning where the algorithm is trained
 1. Classification (e.g., spam vs. not spam)  
 2. Regression (e.g., predicting house prices)
 
-# List of algorithms implemented
+## List of algorithms implemented
 In this project, we implement the following algorithms on an NBA player dataset, with the goal of both learning more about current eye-test sentiments, as well as to investigate the overall advanced analytics movement.
 
 • The Perceptron  
