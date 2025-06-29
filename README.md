@@ -2,5 +2,8 @@
 Project repository for Rice CMOR 438 Summer 2025
 
 ## Datasets:
-https://www.kaggle.com/datasets/justinas/nba-players-data
-https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season
+Supervised learning:  
+https://www.kaggle.com/datasets/justinas/nba-players-data  
+https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season  
+Unsupervised learning:  
+https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db  
