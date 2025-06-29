@@ -16,3 +16,7 @@ In this project, we implement the following algorithms on an NBA player dataset,
 • Decision Trees / Regression Trees  
 • Random Forests  
 • Other Ensemble Methods, including Boosting  
+
+## Datasets:
+https://www.kaggle.com/datasets/justinas/nba-players-data  
+https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season  
